@@ -1,3 +1,3 @@
-#Git Sample Project
+###Git Sample Project
 
-## Java Hello world and CRUD operation program
+#Java Hello world and CRUD operation program
